@@ -46,5 +46,7 @@ Step 5: create private route
 1. create private route
 2. set up private route
 
+Step 6: Redirect after login
+1. after login redirect user to their desired destination
 
 */
