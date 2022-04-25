@@ -18,7 +18,7 @@ Step-1: Initial Setup
 
 -----------------
 
-Step-2
+Step-2: setup component
 1. Create Login Component
 2. Create Register Component
 3. Create Route for Login and Register
@@ -34,7 +34,7 @@ Step-3: set auth system
 
 -------------------
 
-Step 4: create auth context (UseAuth)
+Step 4: create auth context hook (useAuth)
 1. create a auth context
 2. create context provider
 3. use Auth Provider
@@ -42,7 +42,7 @@ Step 4: create auth context (UseAuth)
 
 ---------------------
 
-Step 5:
+Step 5: create private route
 1. create private route
 2. set up private route
 
